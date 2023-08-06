@@ -11,3 +11,7 @@ github的使用
 git add .
 git commit -m "update"
 git push
+
+
+## section3
+如何多人协作开发
